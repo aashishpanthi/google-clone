@@ -1,7 +1,7 @@
 # google-clone
 
 I have build a simple google Clone using html and css only. <br />
-<b>Live demo no </b>: https://aashishpanthi.github.io/google-clone/
+<b>Live demo on </b>: https://aashishpanthi.github.io/google-clone/
 
 This has the same ability as original google.
 Not only it looks like google but it also works like google although it uses the original google search engine for the queries.
