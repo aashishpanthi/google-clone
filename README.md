@@ -1,6 +1,6 @@
 # google-clone
 
-I have build a simple google Clone using html and css only.
+I have build a simple google Clone using html and css only. <br />
 <b>Live demo no </b>: https://aashishpanthi.github.io/google-clone/
 
 This has the same ability as original google.
