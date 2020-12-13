@@ -1,6 +1,7 @@
 # google-clone
 
-We have build a simple google Clone using html and css only.
+I have build a simple google Clone using html and css only.
+<b>Live demo no </b>: https://aashishpanthi.github.io/google-clone/
 
 This has the same ability as original google.
 Not only it looks like google but it also works like google although it uses the original google search engine for the queries.
@@ -18,15 +19,15 @@ Not only it looks like google but it also works like google although it uses the
 </p>
 <h2>Interface </h2>
 <ol>
-<li>In google search page, we have included the links of google image search and google advanced search in the top right corner.</li>
-<li>Then we have used the image of the google from original google search page.</li>
-<li>We have added two buttons that acts similarto google's button.</li>
-<li>At last of the page, we have some links as shown in the google.</li>
+<li>In google search page, I have included the links of google image search and google advanced search in the top right corner.</li>
+<li>Then I have used the image of the google from original google search page.</li>
+<li>I have added two buttons that acts similarto google's button.</li>
+<li>At last of the page, I have some links as shown in the google.</li>
 </ol>
 
 <h2> Workflow </h2>
 <em>You can navigate to other pages from the top right corner links </em> <br />
-Then we have our search field where you can <strong>search your queries</strong> and that links to the google search. <em> You can either just press the <strong> enter key </strong> or use
+Then I have our search field where you can <strong>search your queries</strong> and that links to the google search. <em> You can either just press the <strong> enter key </strong> or use
 the <ins> Google Search </ins> button to find the result.  <strong>Alternatively, </strong> you can use <ins> I'm felling lucky </ins>button to redirect directly to the first Google search
 result for the query, bypassing the normal results page.
 
@@ -37,15 +38,15 @@ result for the query, bypassing the normal results page.
 </p>
 <h2>Interface </h2>
 <ol>
-<li>In google search page, we have included the links of google text search and google advanced search in the top right corner.</li>
-<li>Then we have used the image of the google image search.</li>
-<li>We have added the search icon and camera icon.</li>
-<li>At last of the page, we have some links as shown in the google.</li>
+<li>In google search page, I have included the links of google text search and google advanced search in the top right corner.</li>
+<li>Then I have used the image of the google image search.</li>
+<li>I have added the search icon and camera icon.</li>
+<li>At last of the page, I have some links as shown in the google.</li>
 </ol>
 
 <h2> Workflow </h2>
 <em>You can navigate to other pages from the top right corner links </em> <br />
-Then we have our search field where you can <strong>search your queries</strong> and that links to the google search and show you the result of images matched of your query.
+Then I have our search field where you can <strong>search your queries</strong> and that links to the google search and show you the result of images matched of your query.
 <em> You can either just press the <strong> enter key </strong> or use
 the <ins> Search icon </ins> just at the right corner of your query field to find the result. 
 
@@ -57,8 +58,8 @@ the <ins> Search icon </ins> just at the right corner of your query field to fin
 </p>
 <h2>Interface </h2>
 <ol>
-<li>In google advance search page, we have included the links of google image search and google advanced search in the top right corner just with the normal header style at the top left corner of the page.</li>
-<li>Then we have four input fields:
+<li>In google advance search page, I have included the links of google image search and google advanced search in the top right corner just with the normal header style at the top left corner of the page.</li>
+<li>Then I have four input fields:
   <ul>
     <li> First input field is for the important words. </li>
     <li> Second input field is for the exact words in quotes. </li>
@@ -66,12 +67,12 @@ the <ins> Search icon </ins> just at the right corner of your query field to fin
     <li> Fourth input field is for the words that you want to remove from the query. </li>
   </ul>
 </li>
-<li>Then we have the <strong>Advanced Search </strong> button at the end.</li>
+<li>Then I have the <strong>Advanced Search </strong> button at the end.</li>
 </ol>
 
 <h2> Workflow </h2>
 <em>You can navigate to other pages from the top right corner links </em> <br />
-Then we have our search field where you can <strong>search your queries</strong> <ins> as explained above </ins> and that links to the google search. <em> You can either just press the <strong> enter key </strong> after completing 
+Then I have our search field where you can <strong>search your queries</strong> <ins> as explained above </ins> and that links to the google search. <em> You can either just press the <strong> enter key </strong> after completing 
 or filling up the input fields. <strong>Alternatively, </strong> you can use <ins> Advanced Search </ins>button to redirect Google search
 with advanced google searching feature.
 
